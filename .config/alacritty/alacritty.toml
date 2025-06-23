@@ -19,7 +19,6 @@ size = 19
 
 
 # # Theme
-# # Nightfox Alacritty Colors
 ## name: carbonfox
 ## upstream: https://github.com/edeneast/nightfox.nvim/raw/main/extra/carbonfox/alacritty.toml
 
